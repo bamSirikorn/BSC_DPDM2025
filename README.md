@@ -14,7 +14,7 @@ Repository นี้จัดทำขึ้นเพื่อส่งงาน
 
 ----
 ## 📚 สารบัญ
-- [Chapter 1](01Intro.pdf)
+- [Chapter 1: Intro](01Intro.pdf)
 - [Chapter 2: Getting-to-Know-Your-Data](02Data.pdf)
 
 ----
