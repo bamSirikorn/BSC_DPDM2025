@@ -12,51 +12,44 @@ Repository นี้จัดทำขึ้นเพื่อส่งงาน
 | **รหัสนักศึกษา** | 663020299-7 |
 | **ปีการศึกษา** | 2568 |
 
-----
-## 📚 สารบัญ
-- [Chapter 1: Intro](01Intro.pdf)
-- [Chapter 2: Getting-to-Know-Your-Data](02Data.pdf)
 
-----
-
-## 🌟 Chapter 1: Introduction to Data Mining
-
-### 🔥 1. ทำไมต้อง Data Mining?
-
-> เพราะ “ข้อมูลเยอะขึ้น แต่ความรู้ไม่เพิ่มตาม”
-> Data mining คือเครื่องมือแปลงข้อมูลดิบ → ความรู้เชิงลึก
-
-| ประเด็น               | ความหมาย                                   |
-| --------------------- | ------------------------------------------ |
-| 📈 การเติบโตของข้อมูล | จาก TB → PB (ธุรกิจ, วิทยาศาสตร์, โซเชียล) |
-| 🎯 ความจำเป็น         | ช่วยค้นหา insight ที่คนไม่เห็น             |
-| 🤖 บทบาท              | ใช้ ML / สถิติ / visualization ร่วมกัน     |
+# 📊 BSC_DPDM2025
+**Sirikorn Butwong (สิริกร บุตรวงษ์) 663020299-7**
 
 ---
 
-### 💡 2. Data Mining คืออะไร?
+## 📑 รายละเอียดการวัดผล (Grading Metrics)
 
-* การค้นหารูปแบบที่ **มีประโยชน์**, **ไม่ชัดเจน**, **ใหม่**
-* เป็นขั้นตอนสำคัญใน **KDD (Knowledge Discovery Process)**
-
-```
-Cleaning → Integration → Selection → Data Mining → Evaluation → Knowledge
-```
-
----
-
-### 🔭 3. มุมมองหลายมิติของ Data Mining
-
-| มิติ            | เนื้อหา                                                 |
-| --------------- | ------------------------------------------------------- |
-| 📊 Data Types   | DB, Data warehouse, Text, Web, Graph, Stream            |
-| 🧩 Functions    | Classification, Clustering, Association, Outlier, Trend |
-| 🛠 Techniques   | ML, Stat, Pattern recognition, OLAP, Visualization      |
-| 🏭 Applications | Retail, Banking, Fraud, Bioinformatics, Web Mining      |
+| รายการ | รูปแบบ | สัดส่วน | คำอธิบาย |
+| :--- | :---: | :---: | :--- |
+| **📝 Midterm** | เดี่ยว | **25%** | เน้นการประมวลผลข้อมูล (Data Preprocessing) |
+| **🏁 Final** | เดี่ยว | **25%** | เน้นทฤษฎีการทำเหมืองข้อมูล (Data Mining Theory) |
+| **💡 Project** | กลุ่ม | **20%** | Data Preprocessing + Data Mining |
+| **🏠 Homework** | กลุ่ม | **15%** | การบ้าน สุ่มจัดกลุ่มใหม่ในแต่ละครั้ง |
+| **⚡ Quiz** | เดี่ยว | **10%** | ทดสอบความเข้าใจในห้องเรียน |
+| **📁 GitHub** | เดี่ยว | **5%** | การส่งงานและจัดรูปแบบบน GitHub |
 
 ---
 
-### ⚠️ 4. ประเด็นท้าทายของ Data Mining
+## 📚 เอกสารประกอบการเรียน (Lecture Notes)
+*คลิกที่ชื่อไฟล์เพื่อเปิดดูรายละเอียด*
+
+| ไฟล์บทเรียน (Click to Open) | คำอธิบายเนื้อหาโดยสรุป |
+| :--- | :--- |
+| 🚀 [01 Intro.pdf](./01Intro.pdf) | ความหมายของ Data Mining และกระบวนการ KDD |
+| 📊 [02 Data.pdf](./02Data.pdf) | ประเภทของข้อมูล (Attributes) และการวัดความคล้ายคลึง |
+| 🧼 [03 Preprocessing.pdf](./03Preprocessing.pdf) | การทำความสะอาดข้อมูล และการจัดการ Missing Values |
+| 🛒 [06 FPBasic.pdf](./06FPBasic.pdf) | การหาความสัมพันธ์ของข้อมูล (Association Rules) |
+| 🏷️ [08 ClassBasic.pdf](./08ClassBasic.pdf) | การจำแนกประเภทข้อมูลเบื้องต้น (Classification) |
+| 🧬 [10 ClusBasic.pdf](./10ClusBasic.pdf) | การจัดกลุ่มข้อมูล (Clustering) และวิธี K-Means |
+
+---
+canva (.https://canva.link/abfois224pq4qn1)  ไฟนอล 
+
+## 💡 สรุปเทคนิคหลัก (Key Concepts)
+* **KDD Process:** Cleaning → Integration → Selection → Mining → Evaluation → Knowledge
+* **Data Quality:** Accuracy, Completeness, Consistency, Timeliness
+* **Learning Models:** Supervised (มี Label) vs Unsupervised (ไม่มี Label)าทายของ Data Mining
 
 * ประสิทธิภาพ (Scalability)
 * ความหลากหลายของข้อมูล
