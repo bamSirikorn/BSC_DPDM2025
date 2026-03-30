@@ -37,7 +37,7 @@
 | 🧼 [03 Preprocessing.pdf](./03Preprocessing.pdf) | การ Clean ข้อมูล และจัดการ Missing Values |
 | 🛒 [06 FPBasic.pdf](./06FPBasic.pdf) | การหาความสัมพันธ์ของข้อมูล (Association Rules) |
 | 🏷️ [08 ClassBasic.pdf](./08ClassBasic(1).pdf) | การจำแนกประเภทข้อมูล (Classification) และ Decision Tree |
-| 🧬 [10 ClusBasic.pdf](./10ClusBasic.pdf) | การจัดกลุ่มข้อมูล (Clustering) ด้วยวิธี K-Means |
+| 🧬 [10 ClusBasic.pdf](./(https://github.com/user-attachments/files/26359691/10ClusBasic.pdf)) | การจัดกลุ่มข้อมูล (Clustering) ด้วยวิธี K-Means |
 
 ---
 
