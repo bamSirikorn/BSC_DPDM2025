@@ -43,7 +43,13 @@ Repository นี้จัดทำขึ้นเพื่อส่งงาน
 | 🧬 [10 ClusBasic.pdf](./10ClusBasic.pdf) | การจัดกลุ่มข้อมูล (Clustering) และวิธี K-Means |
 
 ---
-canva[canva] (.https://canva.link/abfois224pq4qn1)  ไฟนอล 
+## 🚀 โครงการจบรายวิชา (Final Project)
+*รวบรวมชิ้นงานและการวิเคราะห์ข้อมูลทั้งหมด*
+
+| ช่องทาง (Links) | รายละเอียด (Description) |
+| :--- | :--- |
+| 🐍 [Google Colab (Code)](https://colab.research.google.com/github/bamSirikorn/BSC_DPDM2025/blob/main/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84101_LSTM_V23_11_TMD_ALLcluster_clean.ipynb) | ไฟล์วิเคราะห์ข้อมูลด้วย LSTM และการทำ Clustering |
+| 🎨 [Canva (Presentation)](https://canva.link/abfois224pq4qn1) | สไลด์นำเสนอ |
 
 ## 💡 สรุปเทคนิคหลัก (Key Concepts)
 * **KDD Process:** Cleaning → Integration → Selection → Mining → Evaluation → Knowledge
