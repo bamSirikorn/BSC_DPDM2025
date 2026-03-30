@@ -43,7 +43,7 @@ Repository นี้จัดทำขึ้นเพื่อส่งงาน
 | 🧬 [10 ClusBasic.pdf](./10ClusBasic.pdf) | การจัดกลุ่มข้อมูล (Clustering) และวิธี K-Means |
 
 ---
-canva (.https://canva.link/abfois224pq4qn1)  ไฟนอล 
+canva[canva] (.https://canva.link/abfois224pq4qn1)  ไฟนอล 
 
 ## 💡 สรุปเทคนิคหลัก (Key Concepts)
 * **KDD Process:** Cleaning → Integration → Selection → Mining → Evaluation → Knowledge
